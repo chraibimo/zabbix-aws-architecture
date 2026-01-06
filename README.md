@@ -32,14 +32,12 @@ docker-compose up -d
 
 3. Access the Zabbix Web Interface
 Open your browser and go to:
-http://<your-ec2-public-ip>:8080
+http://<ec2-public-ip>:8080/zabbix
 
 
 Default credentials:
 - Username: Admin
 - Password: zabbix
-
-<img width="1248" height="796" alt="login" src="https://github.com/user-attachments/assets/cfb1d71c-cb79-4ce8-a189-f9b9efcfd057" />
 
 Requirements
 - AWS EC2 instance (Ubuntu 20.04 or later)
