@@ -55,12 +55,6 @@ zabbix-aws-architecture/
     └── zabbix-dashboard.png
 
 
-Place your screenshots in the screenshots/ folder. You can create it manually or upload images directly via GitHub.
-
-
-Screenshots
-
-
 Useful Commands
 |  |  | 
 |  | docker-compose up -d | 
