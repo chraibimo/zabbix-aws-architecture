@@ -1,0 +1,1 @@
+# zabbix-aws-architecture
